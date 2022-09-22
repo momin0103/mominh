@@ -1,0 +1,28 @@
+git init
+git clone link copy past
+
+git add .
+git commit -m "First Commit"
+git push
+
+
+
+new file store again
+
+git add .
+git commit -m "First Commit"
+git push
+
+…or create a new repository on the command line
+echo "# dsfsda" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/momin0103/dsfsda.git
+git push -u origin main
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/momin0103/dsfsda.git
+git branch -M main
+git push -u origin main
